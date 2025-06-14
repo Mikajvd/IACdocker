@@ -1,0 +1,4 @@
+#SPDX-License-Identifier: MIT-0
+---
+docker_hello_image: nginx:alpine
+# defaults file for IAC_docker

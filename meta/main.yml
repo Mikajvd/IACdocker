@@ -1,0 +1,16 @@
+#SPDX-License-Identifier: MIT-0
+galaxy_info:
+  role_name: IAC_docker
+  author: mikajvd
+  description: Installeert docker op Debian based systemen en start een 'hello world' container.
+  company: your company (optional)
+  license: MIT
+
+  min_ansible_version: 2.1
+  
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+
+dependencies: []
