@@ -3,7 +3,7 @@ galaxy_info:
   role_name: IAC_docker
   author: mikajvd
   description: Installeert docker op Debian based systemen en start een 'hello world' container.
-  company: your company (optional)
+  company: MD365IT
   license: MIT
 
   min_ansible_version: 2.1
